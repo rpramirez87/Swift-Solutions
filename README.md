@@ -7,6 +7,7 @@ CodeFights solutions written in Swift 3 with detailed explanation.
 
 ###Bonus:
 ###If you want to see solutions for LeetCode, please visit my another github project <a href="https://github.com/yangyanzhan/leetcode">LeetCode Solutions in Swift</a>
+###If you want to see solutions for Exercism, please visit my another github project <a href="https://github.com/yangyanzhan/exercism">Exercism Solutions in Swift</a>
 
 | # | Title | Analysis or Solution |
 |---| ----- | -------- |
