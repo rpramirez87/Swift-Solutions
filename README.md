@@ -11,6 +11,14 @@ CodeFights solutions written in Swift 3 with detailed explanation.
 
 | # | Title | Analysis or Solution |
 |---| ----- | -------- |
+|24|equal pair of bits|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/equal_pair_of_bits.swift">Swift</a>|
+|23|different rightmost bit|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/different_rightmost_bit.swift">Swift</a>|
+|22|swap adjacent bits|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/swap_adjacent_bits.swift">Swift</a>|
+|21|second rightmost zero bit|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/second_rightmost_zero_bit.swift">Swift</a>|
+|20|mirro bits|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/mirro_bits.swift">Swift</a>|
+|19|range bit count|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/range_bit_count.swift">Swift</a>|
+|18|array packing|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/array_packing.swift">Swift</a>|
+|17|kill kth bit|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/kill_kth_bit.swift">Swift</a>|
 |16|metro card|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/metro_card.swift">Swift</a>|
 |15|will you|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/will_you.swift">Swift</a>|
 |14|tennis set|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/tennis_set.swift">Swift</a>|
