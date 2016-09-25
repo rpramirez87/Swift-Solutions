@@ -11,6 +11,14 @@ CodeFights solutions written in Swift 3 with detailed explanation.
 
 | # | Title | Analysis or Solution |
 |---| ----- | -------- |
+|16|metro card|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/metro_card.swift">Swift</a>|
+|15|will you|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/will_you.swift">Swift</a>|
+|14|tennis set|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/tennis_set.swift">Swift</a>|
+|13|arithmetic expression|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/arithmetic_expression.swift">Swift</a>|
+|12|is infinite process|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/is_infinite_process.swift">Swift</a>|
+|11|extra number|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/extra_number.swift">Swift</a>|
+|10|knapsack light|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/knapsack_light.swift">Swift</a>|
+|9|reach next level|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/reach_next_level.swift">Swift</a>|
 |8|phone call|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/phone_call.swift">Swift</a>|
 |7|late ride|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/late_ride.swift">Swift</a>|
 |6|circle of numbers|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/circle_of_numbers.swift">Swift</a>|
