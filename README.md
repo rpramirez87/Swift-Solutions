@@ -11,6 +11,14 @@ CodeFights solutions written in Swift 3 with detailed explanation.
 
 | # | Title | Analysis or Solution |
 |---| ----- | -------- |
+|42|make array consecutive|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/make_array_consecutive.swift">Swift</a>|
+|41|replace middle|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/replace_middle.swift">Swift</a>|
+|40|is smooth|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/is_smooth.swift">Swift</a>|
+|39|remove array part|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/remove_array_part.swift">Swift</a>|
+|38|concatenate arrays|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/concatenate_arrays.swift">Swift</a>|
+|37|first reverse try|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/first_reverse_try.swift">Swift</a>|
+|36|array replace|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/array_replace.swift">Swift</a>|
+|35|create array|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/create_array.swift">Swift</a>|
 |34|count black cells|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/count_black_cells.swift">Swift</a>|
 |33|candles|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/candles.swift">Swift</a>|
 |32|rounders|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/rounders.swift">Swift</a>|
