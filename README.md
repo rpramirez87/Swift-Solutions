@@ -11,6 +11,16 @@ CodeFights solutions written in Swift 3 with detailed explanation.
 
 | # | Title | Analysis or Solution |
 |---| ----- | -------- |
+|34|count black cells|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/count_black_cells.swift">Swift</a>|
+|33|candles|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/candles.swift">Swift</a>|
+|32|rounders|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/rounders.swift">Swift</a>|
+|31|increase number roundness|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/increase_number_roundness.swift">Swift</a>|
+|30|apple boxes|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/apple_boxes.swift">Swift</a>|
+|29|addition without carrying|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/addition_without_carrying.swift">Swift</a>|
+|28|lineup|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/lineup.swift">Swift</a>|
+|27|magical well|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/magical_well.swift">Swift</a>|
+|26|count sum of two representations 2|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/count_sum_of_two_representations_2.swift">Swift</a>|
+|25|least factorial|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/least_factorial.swift">Swift</a>|
 |24|equal pair of bits|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/equal_pair_of_bits.swift">Swift</a>|
 |23|different rightmost bit|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/different_rightmost_bit.swift">Swift</a>|
 |22|swap adjacent bits|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/swap_adjacent_bits.swift">Swift</a>|
