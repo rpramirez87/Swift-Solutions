@@ -11,6 +11,14 @@ CodeFights solutions written in Swift 3 with detailed explanation.
 
 | # | Title | Analysis or Solution |
 |---| ----- | -------- |
+|50|crossword formation|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/crossword_formation.swift">Swift</a>|
+|49|rectangle rotation|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/rectangle_rotation.swift">Swift</a>|
+|48|weak numbers|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/weak_numbers.swift">Swift</a>|
+|47|comfortable numbers|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/comfortable_numbers.swift">Swift</a>|
+|46|pages numbering with ink|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/pages_numbering_with_ink.swift">Swift</a>|
+|45|square digits sequence|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/square_digits_sequence.swift">Swift</a>|
+|44|is sum of consecutive|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/is_sum_of_consecutive.swift">Swift</a>|
+|43|is power|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/is_power.swift">Swift</a>|
 |42|make array consecutive|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/make_array_consecutive.swift">Swift</a>|
 |41|replace middle|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/replace_middle.swift">Swift</a>|
 |40|is smooth|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/is_smooth.swift">Swift</a>|
