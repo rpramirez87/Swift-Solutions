@@ -1,5 +1,5 @@
 # CodeFights
-CodeFights solutions written in Swift 3 with detailed explanation.
+CodeFights solutions written in Swift with detailed explanation.
 
 ###For more articles and analysis on algorithmic problems written in Swift, please visit my blog:
 ###<a href="http://www.yangyanzhan.com/" target="_blank">http://www.yangyanzhan.com/</a>
