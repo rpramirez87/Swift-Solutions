@@ -6,11 +6,19 @@ CodeFights solutions written in Swift with detailed explanation.
 ###If you like my project and blog, don't forget to star this project.:smile:
 
 ###Bonus:
-###If you want to see solutions for LeetCode, please visit my another github project <a href="https://github.com/yangyanzhan/leetcode">LeetCode Solutions in Swift</a>
-###If you want to see solutions for Exercism, please visit my another github project <a href="https://github.com/yangyanzhan/exercism">Exercism Solutions in Swift</a>
+###If you want to see solutions for <a href="https://leetcode.com/">LeetCode</a>, please visit my another github project <a href="https://github.com/yangyanzhan/leetcode">LeetCode Solutions in Swift</a>
+###If you want to see solutions for <a href="http://exercism.io/">Exercism</a>, please visit my another github project <a href="https://github.com/yangyanzhan/exercism">Exercism Solutions in Swift</a>
 
 | # | Title | Analysis or Solution |
 |---| ----- | -------- |
+|58|is unstable pair|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/is_unstable_pair.swift">Swift</a>|
+|57|is mac 48 address|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/is_mac_48_address.swift">Swift</a>|
+|56|html end tag by start tag|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/html_end_tag_by_start_tag.swift">Swift</a>|
+|55|find email domain|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/find_email_domain.swift">Swift</a>|
+|54|is case insensitive palindrome|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/is_case_insensitive_palindrome.swift">Swift</a>|
+|53|is tandem repeat|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/is_tandem_repeat.swift">Swift</a>|
+|52|proper noun correction|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/proper_noun_correction.swift">Swift</a>|
+|51|enclose in brackets|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/enclose_in_brackets.swift">Swift</a>|
 |50|crossword formation|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/crossword_formation.swift">Swift</a>|
 |49|rectangle rotation|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/rectangle_rotation.swift">Swift</a>|
 |48|weak numbers|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/weak_numbers.swift">Swift</a>|
