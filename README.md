@@ -4,13 +4,35 @@ CodeFights solutions written in Swift with detailed explanation.
 ###For more articles and analysis on algorithmic problems written in Swift, please visit my blog:
 ###<a href="http://www.yangyanzhan.com/" target="_blank">http://www.yangyanzhan.com/</a>
 ###If you like my project and blog, don't forget to star this project.:smile:
+======
 
 ###Bonus:
 ###If you want to see solutions for <a href="https://leetcode.com/">LeetCode</a>, please visit my another github project <a href="https://github.com/yangyanzhan/leetcode">LeetCode Solutions in Swift</a>
 ###If you want to see solutions for <a href="http://exercism.io/">Exercism</a>, please visit my another github project <a href="https://github.com/yangyanzhan/exercism">Exercism Solutions in Swift</a>
+======
 
 | # | Title | Analysis or Solution |
 |---| ----- | -------- |
+|78|ada number|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/ada_number.swift">Swift</a>|
+|77|are similar|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/are_similar.swift">Swift</a>|
+|76|integer to string with fixed width|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/integer_to_string_of_fixed_width.swift">Swift</a>|
+|75|elections winners|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/elections_winners.swift">Swift</a>|
+|74|timed reading|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/timed_reading.swift">Swift</a>|
+|73|switch lights|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/switch_lights.swift">Swift</a>|
+|72|add border|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/add_border.swift">Swift</a>|
+|71|minimal number of coins|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/minimal_number_of_coins.swift">Swift</a>|
+|70|alphabet subsquence|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/alphabet_subsequence.swift">Swift</a>|
+|69|house of cats|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/house_of_cats.swift">Swift</a>|
+|68|all longest strings|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/all_longest_strings.swift">Swift</a>|
+|67|house numbers sum|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/house_numbers_sum.swift">Swift</a>|
+|66|number of clans|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/number_of_clans.swift">Swift</a>|
+|65|most frequent digit sum|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/most_frequent_digit_sum.swift">Swift</a>|
+|64|different squares|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/different_squares.swift">Swift</a>|
+|63|numbers grouping|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/numbers_grouping.swift">Swift</a>|
+|62|construct square|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/construct_square.swift">Swift</a>|
+|61|create anagram|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/create_anagram.swift">Swift</a>|
+|60|is substitution cipher|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/is_substitution_cipher.swift">Swift</a>|
+|59|strings constructions|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/strings_construction.swift">Swift</a>|
 |58|is unstable pair|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/is_unstable_pair.swift">Swift</a>|
 |57|is mac 48 address|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/is_mac_48_address.swift">Swift</a>|
 |56|html end tag by start tag|<a href="https://github.com/yangyanzhan/CodeFights/blob/master/solutions/html_end_tag_by_start_tag.swift">Swift</a>|
