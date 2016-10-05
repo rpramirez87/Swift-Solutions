@@ -10,6 +10,7 @@ CodeFights solutions written in Swift with detailed explanation.
 ###If you want to see solutions for <a href="https://leetcode.com/">LeetCode</a>, please visit my another github project <a href="https://github.com/yangyanzhan/leetcode">LeetCode Solutions in Swift</a>
 ###If you want to see solutions for <a href="http://exercism.io/">Exercism</a>, please visit my another github project <a href="https://github.com/yangyanzhan/exercism">Exercism Solutions in Swift</a>
 ======
+======
 
 | # | Title | Analysis or Solution |
 |---| ----- | -------- |
