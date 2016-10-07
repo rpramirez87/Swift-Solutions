@@ -10,10 +10,14 @@ CodeFights solutions written in Swift with detailed explanation.
 ###If you want to see solutions for <a href="https://leetcode.com/">LeetCode</a>, please visit my another github project <a href="https://github.com/yangyanzhan/leetcode">LeetCode Solutions in Swift</a>
 ###If you want to see solutions for <a href="http://exercism.io/">Exercism</a>, please visit my another github project <a href="https://github.com/yangyanzhan/exercism">Exercism Solutions in Swift</a>
 ======
-======
 
 | # | Title | Analysis or Solution |
 |---| ----- | -------- |
+|83|cipher26|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/cipher26.swift">Swift</a>|
+|82|new numeral system|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/new_numeral_system.swift">Swift</a>|
+|81|reflect string|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/reflect_string.swift">Swift</a>|
+|80|character parity|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/character_parity.swift">Swift</a>|
+|79|three split|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/three_split.swift">Swift</a>|
 |78|ada number|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/ada_number.swift">Swift</a>|
 |77|are similar|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/are_similar.swift">Swift</a>|
 |76|integer to string with fixed width|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/integer_to_string_of_fixed_width.swift">Swift</a>|
