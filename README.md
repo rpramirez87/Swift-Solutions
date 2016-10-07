@@ -13,6 +13,9 @@ CodeFights solutions written in Swift with detailed explanation.
 
 | # | Title | Analysis or Solution |
 |---| ----- | -------- |
+|97|pair of shoes|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/pair_of_shoes.swift">Swift</a>|
+|96|array previous less|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/array_previous_less.swift">Swift</a>|
+|95|array conversion|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/array_conversion.swift">Swift</a>|
 |94|volleyball positions|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/volleyball_positions.swift">Swift</a>|
 |93|draw rectangle|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/draw_rectangle.swift">Swift</a>|
 |92|crossing sum|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/crossing_sum.swift">Swift</a>|
