@@ -13,6 +13,17 @@ CodeFights solutions written in Swift with detailed explanation.
 
 | # | Title | Analysis or Solution |
 |---| ----- | -------- |
+|94|volleyball positions|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/volleyball_positions.swift">Swift</a>|
+|93|draw rectangle|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/draw_rectangle.swift">Swift</a>|
+|92|crossing sum|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/crossing_sum.swift">Swift</a>|
+|91|swap diagonals|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/swap_diagonals.swift">Swift</a>|
+|90|reverse on diagonals|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/reverse_on_diagonals.swift">Swift</a>|
+|89|are isomorphic|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/are_isomorphic.swift">Swift</a>|
+|88|extract matrix column|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/extract_matrix_column.swift">Swift</a>|
+|87|alphanumeric less|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/alphanumeric_less.swift">Swift</a>|
+|86|decipher|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/decipher.swift">Swift</a>|
+|85|higher version|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/higher_version.swift">Swift</a>|
+|84|stolen lunch|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/stolen_lunch.swift">Swift</a>|
 |83|cipher26|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/cipher26.swift">Swift</a>|
 |82|new numeral system|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/new_numeral_system.swift">Swift</a>|
 |81|reflect string|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/reflect_string.swift">Swift</a>|
