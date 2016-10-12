@@ -15,6 +15,7 @@ CodeFights solutions written in Swift with detailed explanation.
 
 | # | Title | Analysis or Solution |
 |---| ----- | -------- |
+|100|cyclic string|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/cyclic_string.swift">Swift</a>|
 |99|strings crossover|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/strings_crossover.swift">Swift</a>|
 |98|combs|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/combs.swift">Swift</a>|
 |97|pair of shoes|<a href="https://github.com/Swift-Solutions/CodeFights/blob/master/solutions/pair_of_shoes.swift">Swift</a>|
