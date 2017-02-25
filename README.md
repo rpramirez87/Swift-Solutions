@@ -1,7 +1,7 @@
 # CodeFights
 CodeFights solutions written in Swift with detailed explanation.
 
-###If you like my project and blog, don't forget to star this project.:smile:
+###If you like my project, don't forget to star it.:smile:
 
 ======
 
