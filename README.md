@@ -1,16 +1,8 @@
 # CodeFights
 CodeFights solutions written in Swift with detailed explanation.
 
-###For more articles and analysis on algorithmic problems written in Swift, please visit my blog:
-###<a href="http://www.yangyanzhan.com/" target="_blank">http://www.yangyanzhan.com/</a>
 ###If you like my project and blog, don't forget to star this project.:smile:
-======
 
-###Bonus:
-###If you want to see solutions for <a href="https://leetcode.com/">LeetCode</a>, please visit my another github project <a href="https://github.com/Swift-Solutions/LeetCode">LeetCode Solutions in Swift</a>
-###If you want to see solutions for <a href="http://exercism.io/">Exercism</a>, please visit my another github project <a href="https://github.com/Swift-Solutions/Exercism">Exercism Solutions in Swift</a>
-###If you want to see solutions for <a href="https://www.hackerearth.com/challenges/">HackerEarth</a>, please visit my another github project <a href="https://github.com/Swift-Solutions/HackerEarth">HackerEarth Solutions in Swift</a>
-###If you want to see solutions for <a href="https://www.hackerrank.com/domains">HackerRank</a>, please visit my another github project <a href="https://github.com/Swift-Solutions/HackerRank">HackerRank Solutions in Swift</a>
 ======
 
 | # | Title | Analysis or Solution |
