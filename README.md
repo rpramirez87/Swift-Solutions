@@ -10,4 +10,4 @@ My solutions for all kinds of online judges written in Swift.
 | Online Judge | Solution Directory | Solution Count |
 |---| ----- | -------- |
 | CodeFights | [Solutions](https://github.com/yangyanzhan/Swift-Solutions/tree/master/solutions/code_fights) | 100 |
-| Exercism | [Solutions](https://github.com/yangyanzhan/Swift-Solutions/tree/master/solutions/exercism) | 1 |
+| Exercism | [Solutions](https://github.com/yangyanzhan/Swift-Solutions/tree/master/solutions/exercism) | 2 |
