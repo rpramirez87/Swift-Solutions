@@ -1,7 +1,7 @@
 # Swift Solutions
 My solutions for all kinds of online judges written in Swift.
 
-* If you like my project, don't forget to star it.:smile:
+* If you like my project, don't forget to star it . :smile:
 * If you have any algorithmic problems for Swift, be free to contact me at **yangyanzhan@gmail.com** .
 * If you have any **job opportunities** or **offers**, please contact me at **yangyanzhan@gmail.com** .
 
